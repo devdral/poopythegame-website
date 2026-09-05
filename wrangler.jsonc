@@ -1,6 +1,7 @@
 {
   "name": "poopythegame",
   "compatibility_date": "2026-09-05",
+  "main": "src/index.js",
   "assets": {
     "directory": "./public"
   },

@@ -1,0 +1,11 @@
+{
+  "name": "poopythegame",
+  "compatibility_date": "2026-09-05",
+  "pages_build_output_dir": "./public",
+  "r2_buckets": [
+    {
+      "binding": "webGameAssets",
+      "bucket_name": "poopythegame-data"
+    }
+  ]
+}

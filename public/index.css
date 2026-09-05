@@ -1,0 +1,85 @@
+:root {
+    font-family: "Patrick Hand", sans-serif;
+    font-size: 22px;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #ffed96;
+}
+
+#content {
+    margin: 0 auto;
+    max-width: 50vw;
+}
+
+#game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 853px;
+    height: 485.333px;
+    margin: 0 auto;
+}
+
+.links {
+    background-color: #ffdf52;
+    padding: .75em 0.5em .75em .5em;
+    margin: 1em;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+canvas {
+    width: 853px;
+    height: 485.333px;
+}
+
+.hidden {
+    display: none;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+img.logo {
+    min-width: 0;
+    max-height: 100px;
+}
+
+header {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+}
+
+a.link {
+    color: white;
+    text-decoration: none;
+    background-color: #4f5ada;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    padding: 0.2em;
+}
+
+h2 {
+    font-size: 32px;
+}

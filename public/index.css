@@ -17,6 +17,13 @@ body {
     max-width: 50vw;
 }
 
+#trailer {
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
 #game {
     background-color: #e2e2e2;
     display: flex;

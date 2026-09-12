@@ -8,7 +8,7 @@ body {
     margin: 0;
     display: flex;
     justify-content: center;
-    background-image: url("Poopy BG.png");
+    background-image: url("poopy_bg.png");
     background-repeat: repeat;
 }
 
